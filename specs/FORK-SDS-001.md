@@ -1,0 +1,97 @@
+# FORK-SDS-001 â€” Synthetic Decision Scenario Specification
+
+**Version:** `0.1.0`
+**Status:** `MATERIALIZED_UNSEALED`
+**Claim rung:** `SPECIFIED`
+
+## Authority Boundary
+
+This materialized specification participates in the Fork Claim Boundary Coherence Harness v0.1.
+It does not establish implementation conformance, measurement reliability, experimental effect,
+external validity, legal sufficiency, institutional conformance, or truth of the Boundary Language thesis.
+
+## Upstream Dependencies
+
+- None
+
+## Declared Identifiers
+
+- `T-001`
+- `T-002`
+- `T-003`
+- `T-004`
+- `T-005`
+- `T-006`
+- `T-007`
+- `T-008`
+- `T-009`
+- `T-010`
+- `ART-001`
+- `ART-002`
+- `ART-003`
+- `ART-004`
+- `ART-005`
+- `ART-006`
+- `ART-007`
+- `ART-008`
+- `ART-009`
+- `ART-010`
+- `ART-011`
+- `ART-012`
+- `ART-013`
+- `ART-014`
+- `ART-015`
+- `P-001`
+- `P-002`
+- `P-003`
+- `P-004`
+- `P-005`
+- `P-006`
+- `P-007`
+- `P-008`
+- `P-009`
+- `P-010`
+- `P-011`
+- `P-012`
+- `P-013`
+- `P-014`
+- `P-015`
+- `P-016`
+- `P-017`
+- `P-018`
+- `P-019`
+- `P-020`
+- `P-021`
+- `P-022`
+- `P-023`
+- `P-024`
+- `P-025`
+- `P-026`
+- `P-027`
+- `P-028`
+- `BB-001`
+- `BB-002`
+- `BB-003`
+- `BB-004`
+- `BB-005`
+- `BB-006`
+- `BB-007`
+- `BB-008`
+- `BB-009`
+- `BB-010`
+- `BB-011`
+- `BB-012`
+- `BB-013`
+- `BB-014`
+- `BB-015`
+- `BB-016`
+- `BB-017`
+- `BB-018`
+- `BB-019`
+- `BB-020`
+
+## Claim Boundary
+
+This document may be checked for presence, identity, dependency direction, reference resolution,
+canonical representation, and fixture coherence. A passing coherence check does not establish
+that the full experiment works or that boundary language improves reconstruction.

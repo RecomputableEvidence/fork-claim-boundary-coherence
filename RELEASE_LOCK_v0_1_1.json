@@ -1,0 +1,39 @@
+﻿{
+    "release_id":  "FORK_CLAIM_BOUNDARY_COHERENCE_v0_1_1_RELEASE_LOCK",
+    "release_version":  "0.1.1",
+    "tag_name":  "v0.1.1-specification-coherence-pass",
+    "created_at":  "2026-06-13T00:41:22Z",
+    "claim_rung":  "SPECIFIED",
+    "evaluation_scope":  "SPECIFICATION_COHERENCE",
+    "overall_result":  "PASS",
+    "receipt_path":  "results/specification_coherence/FORK_SPECIFICATION_COHERENCE_RECEIPT_v0_1.json",
+    "receipt_sha256":  "36c69c5e1f07db9f187000df93700246786b86879200008a736bcce1fce670ec",
+    "runner_path":  "tools/run_specification_coherence.py",
+    "runner_sha256":  "45be4cb7286db00394a7554786bb07d1e4e5510be0107cba3d46984639fadf40",
+    "check_count":  11,
+    "non_pass_check_count":  0,
+    "establishes":  [
+                        "The materialized Fork Claim Boundary specification stack was evaluated by the v0.1.1 coherence runner.",
+                        "The runner produced a bounded PASS specification-coherence receipt under the recorded environment.",
+                        "The release preserves the v0.1 failure lineage and v0.1.1 correction lineage."
+                    ],
+    "does_not_establish":  [
+                               "Full implementation conformance",
+                               "Scorer correctness",
+                               "BES enforcement conformance",
+                               "Measurement reliability",
+                               "Experimental executability at scale",
+                               "Empirical effectiveness",
+                               "External validity",
+                               "Legal, regulatory, institutional, or policy sufficiency",
+                               "Truth of the Boundary Language thesis"
+                           ],
+    "permitted_public_claim":  "Fork Claim Boundary Coherence Harness v0.1.1 executed against the materialized Fork specification stack and produced a bounded specification-coherence PASS receipt under the recorded environment.",
+    "prohibited_public_claims":  [
+                                     "Claim Boundaries improve reconstruction.",
+                                     "Fork prevents semantic collapse.",
+                                     "The Claim Boundaries experiment is validated.",
+                                     "The method is enterprise-proven.",
+                                     "The system establishes legal or institutional sufficiency."
+                                 ]
+}

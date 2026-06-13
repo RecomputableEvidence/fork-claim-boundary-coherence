@@ -1,0 +1,11 @@
+{
+  "edges": [
+    {
+      "authority": "DOWNSTREAM_REFERENCE_ONLY",
+      "from": "FORK-EAP-001",
+      "to": "FORK-SDS-001"
+    }
+  ],
+  "expected_status": "FAIL",
+  "fixture_id": "FIXTURE-INVALID-FORBIDDEN-DEPENDENCY-001"
+}

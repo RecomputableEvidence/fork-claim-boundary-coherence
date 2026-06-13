@@ -1,0 +1,12 @@
+{
+  "expected_status": "FAIL",
+  "fixture_id": "FIXTURE-INVALID-DUPLICATE-IDENTIFIER-001",
+  "identifiers": [
+    {
+      "id": "P-001"
+    },
+    {
+      "id": "P-001"
+    }
+  ]
+}

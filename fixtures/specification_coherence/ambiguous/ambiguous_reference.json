@@ -1,0 +1,5 @@
+{
+  "expected_status": "NOT_CHECKED",
+  "fixture_id": "FIXTURE-AMBIGUOUS-REFERENCE-001",
+  "reason": "Reference target is semantically ambiguous and requires explicit classification before validation."
+}

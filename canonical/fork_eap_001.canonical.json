@@ -1,0 +1,34 @@
+{
+  "artifact_id": "FORK-EAP-001",
+  "canonical_payload_sha256": "2d216a333fe758635dcf596d8debfc6bf2c0fdf7ded5d688ca6ca9ee2291b06b",
+  "claim_boundary": {
+    "does_not_establish": [
+      "Implementation conformance",
+      "Measurement reliability",
+      "Empirical effectiveness",
+      "External validity"
+    ],
+    "establishes": [
+      "Materialized specification presence and declared metadata only."
+    ]
+  },
+  "claim_rung": "SPECIFIED",
+  "declared_identifiers": [
+    "H1-INFORMATION-EFFECT",
+    "H2-STRUCTURE-EFFECT",
+    "H3-ENFORCEMENT-EFFECT",
+    "EAP-PILOT-FIREWALL"
+  ],
+  "source_markdown": "specs/FORK-EAP-001.md",
+  "status": "MATERIALIZED_UNSEALED",
+  "title": "Experimental Analysis Plan",
+  "upstream_dependencies": [
+    "FORK-SDS-001",
+    "FORK-CBS-001",
+    "FORK-CORPUS-001",
+    "FORK-SCR-001",
+    "FORK-PRS-001",
+    "FORK-BES-001"
+  ],
+  "version": "0.1.0"
+}

@@ -1,0 +1,1291 @@
+{
+  "identifiers": [
+    {
+      "id": "FORK-SDS-001",
+      "identifier_type": "ARTIFACT",
+      "owner_artifact": "ROOT",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "T-001",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "T-002",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "T-003",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "T-004",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "T-005",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "T-006",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "T-007",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "T-008",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "T-009",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "T-010",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "ART-001",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "ART-002",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "ART-003",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "ART-004",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "ART-005",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "ART-006",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "ART-007",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "ART-008",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "ART-009",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "ART-010",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "ART-011",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "ART-012",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "ART-013",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "ART-014",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "ART-015",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-001",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-002",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-003",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-004",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-005",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-006",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-007",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-008",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-009",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-010",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-011",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-012",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-013",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-014",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-015",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-016",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-017",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-018",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-019",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-020",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-021",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-022",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-023",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-024",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-025",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-026",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-027",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "P-028",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "BB-001",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "BB-002",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "BB-003",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "BB-004",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "BB-005",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "BB-006",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "BB-007",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "BB-008",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "BB-009",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "BB-010",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "BB-011",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "BB-012",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "BB-013",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "BB-014",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "BB-015",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "BB-016",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "BB-017",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "BB-018",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "BB-019",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "BB-020",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SDS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "FORK-CBS-001",
+      "identifier_type": "ARTIFACT",
+      "owner_artifact": "ROOT",
+      "references": [
+        "FORK-SDS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CBS-SOURCE-001",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CBS-001",
+      "references": [
+        "FORK-SDS-001",
+        "BB-001",
+        "P-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CBS-CAPTURE-001",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CBS-001",
+      "references": [
+        "FORK-SDS-001",
+        "BB-001",
+        "P-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CBS-DERIVATION-001",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CBS-001",
+      "references": [
+        "FORK-SDS-001",
+        "BB-001",
+        "P-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CBS-IDENTITY-001",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CBS-001",
+      "references": [
+        "FORK-SDS-001",
+        "BB-001",
+        "P-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CBS-AUTH-001",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CBS-001",
+      "references": [
+        "FORK-SDS-001",
+        "BB-001",
+        "P-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CBS-TIME-001",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CBS-001",
+      "references": [
+        "FORK-SDS-001",
+        "BB-001",
+        "P-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CBS-TIME-002",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CBS-001",
+      "references": [
+        "FORK-SDS-001",
+        "BB-001",
+        "P-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CBS-TIME-003",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CBS-001",
+      "references": [
+        "FORK-SDS-001",
+        "BB-001",
+        "P-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CBS-TIME-004",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CBS-001",
+      "references": [
+        "FORK-SDS-001",
+        "BB-001",
+        "P-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CBS-STATUS-001",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CBS-001",
+      "references": [
+        "FORK-SDS-001",
+        "BB-010",
+        "P-013",
+        "P-014",
+        "P-015",
+        "P-024",
+        "P-027",
+        "P-028"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CBS-VERIFY-001",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CBS-001",
+      "references": [
+        "FORK-SDS-001",
+        "BB-001",
+        "P-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CBS-CONFORMANCE-001",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CBS-001",
+      "references": [
+        "FORK-SDS-001",
+        "BB-001",
+        "P-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CBS-RESULT-001",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CBS-001",
+      "references": [
+        "FORK-SDS-001",
+        "BB-001",
+        "P-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CBS-RESULT-002",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CBS-001",
+      "references": [
+        "FORK-SDS-001",
+        "BB-001",
+        "P-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CBS-INTEGRITY-001",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CBS-001",
+      "references": [
+        "FORK-SDS-001",
+        "BB-001",
+        "P-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CBS-REPLAY-001",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CBS-001",
+      "references": [
+        "FORK-SDS-001",
+        "BB-001",
+        "P-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CBS-ALLEGATION-001",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CBS-001",
+      "references": [
+        "FORK-SDS-001",
+        "BB-001",
+        "P-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CBS-JUDGMENT-001",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CBS-001",
+      "references": [
+        "FORK-SDS-001",
+        "BB-001",
+        "P-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CBS-REVIEW-001",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CBS-001",
+      "references": [
+        "FORK-SDS-001",
+        "BB-001",
+        "P-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CBS-NOTICE-001",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CBS-001",
+      "references": [
+        "FORK-SDS-001",
+        "BB-001",
+        "P-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "FORK-CORPUS-001",
+      "identifier_type": "ARTIFACT",
+      "owner_artifact": "ROOT",
+      "references": [
+        "FORK-SDS-001",
+        "FORK-CBS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "MSC-001",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CORPUS-001",
+      "references": [
+        "FORK-SDS-001",
+        "FORK-CBS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "MSC-002",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CORPUS-001",
+      "references": [
+        "FORK-SDS-001",
+        "FORK-CBS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "MSC-003",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CORPUS-001",
+      "references": [
+        "FORK-SDS-001",
+        "FORK-CBS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "MSC-004",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CORPUS-001",
+      "references": [
+        "FORK-SDS-001",
+        "FORK-CBS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "MSC-005",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CORPUS-001",
+      "references": [
+        "FORK-SDS-001",
+        "FORK-CBS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "MSC-006",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CORPUS-001",
+      "references": [
+        "FORK-SDS-001",
+        "FORK-CBS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "MSC-007",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CORPUS-001",
+      "references": [
+        "FORK-SDS-001",
+        "FORK-CBS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "MSC-008",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CORPUS-001",
+      "references": [
+        "FORK-SDS-001",
+        "FORK-CBS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "MSC-009",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CORPUS-001",
+      "references": [
+        "FORK-SDS-001",
+        "FORK-CBS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "MSC-010",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CORPUS-001",
+      "references": [
+        "FORK-SDS-001",
+        "FORK-CBS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "MSC-011",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CORPUS-001",
+      "references": [
+        "FORK-SDS-001",
+        "FORK-CBS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "MSC-012",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CORPUS-001",
+      "references": [
+        "FORK-SDS-001",
+        "FORK-CBS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "MSC-013",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CORPUS-001",
+      "references": [
+        "FORK-SDS-001",
+        "FORK-CBS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "MSC-014",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CORPUS-001",
+      "references": [
+        "FORK-SDS-001",
+        "FORK-CBS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "MSC-015",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CORPUS-001",
+      "references": [
+        "FORK-SDS-001",
+        "FORK-CBS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "MSC-016",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CORPUS-001",
+      "references": [
+        "FORK-SDS-001",
+        "FORK-CBS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "C0",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CORPUS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "C1",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CORPUS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "C2",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-CORPUS-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "FORK-SCR-001",
+      "identifier_type": "ARTIFACT",
+      "owner_artifact": "ROOT",
+      "references": [
+        "FORK-SDS-001",
+        "FORK-CBS-001",
+        "FORK-CORPUS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "SCR-CLAIM-SEGMENTATION",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SCR-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "SCR-SUPPORT-LOOKUP",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SCR-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "SCR-PROHIBITION-LOOKUP",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SCR-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "SCR-BOUNDARY-SCORING",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-SCR-001",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "FORK-PRS-001",
+      "identifier_type": "ARTIFACT",
+      "owner_artifact": "ROOT",
+      "references": [
+        "FORK-SDS-001",
+        "FORK-CBS-001",
+        "FORK-CORPUS-001",
+        "FORK-SCR-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "PRS-LNR-001",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-PRS-001",
+      "references": [
+        "FORK-CORPUS-001",
+        "FORK-SCR-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "PRS-LAR-001",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-PRS-001",
+      "references": [
+        "FORK-CORPUS-001",
+        "FORK-SCR-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "PRS-SMG-001",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-PRS-001",
+      "references": [
+        "FORK-CORPUS-001",
+        "FORK-SCR-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "PRS-DAR-001",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-PRS-001",
+      "references": [
+        "FORK-CORPUS-001",
+        "FORK-SCR-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "FORK-BES-001",
+      "identifier_type": "ARTIFACT",
+      "owner_artifact": "ROOT",
+      "references": [
+        "FORK-SDS-001",
+        "FORK-CBS-001",
+        "FORK-CORPUS-001",
+        "FORK-SCR-001",
+        "FORK-PRS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "BES-E1-DR-001",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-BES-001",
+      "references": [
+        "FORK-BES-001",
+        "FORK-PRS-001",
+        "FORK-CBS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "BES-DETECT",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-BES-001",
+      "references": [
+        "FORK-BES-001",
+        "FORK-PRS-001",
+        "FORK-CBS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "BES-REJECT",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-BES-001",
+      "references": [
+        "FORK-BES-001",
+        "FORK-PRS-001",
+        "FORK-CBS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "BES-NOT-CHECKED",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-BES-001",
+      "references": [
+        "FORK-BES-001",
+        "FORK-PRS-001",
+        "FORK-CBS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "FORK-EAP-001",
+      "identifier_type": "ARTIFACT",
+      "owner_artifact": "ROOT",
+      "references": [
+        "FORK-SDS-001",
+        "FORK-CBS-001",
+        "FORK-CORPUS-001",
+        "FORK-SCR-001",
+        "FORK-PRS-001",
+        "FORK-BES-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "H1-INFORMATION-EFFECT",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-EAP-001",
+      "references": [
+        "FORK-EAP-001",
+        "FORK-PRS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "H2-STRUCTURE-EFFECT",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-EAP-001",
+      "references": [
+        "FORK-EAP-001",
+        "FORK-PRS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "H3-ENFORCEMENT-EFFECT",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-EAP-001",
+      "references": [
+        "FORK-EAP-001",
+        "FORK-PRS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "EAP-PILOT-FIREWALL",
+      "identifier_type": "DECLARED",
+      "owner_artifact": "FORK-EAP-001",
+      "references": [
+        "FORK-EAP-001",
+        "FORK-PRS-001"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CHK-ARTIFACT-PRESENCE",
+      "identifier_type": "CHECK",
+      "owner_artifact": "FORK_CLAIM_BOUNDARY_COHERENCE_v0_1",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CHK-IDENTIFIER-UNIQUENESS",
+      "identifier_type": "CHECK",
+      "owner_artifact": "FORK_CLAIM_BOUNDARY_COHERENCE_v0_1",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CHK-REFERENCE-RESOLUTION",
+      "identifier_type": "CHECK",
+      "owner_artifact": "FORK_CLAIM_BOUNDARY_COHERENCE_v0_1",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CHK-DEPENDENCY-DIRECTION",
+      "identifier_type": "CHECK",
+      "owner_artifact": "FORK_CLAIM_BOUNDARY_COHERENCE_v0_1",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CHK-CANONICAL-REPRODUCIBILITY",
+      "identifier_type": "CHECK",
+      "owner_artifact": "FORK_CLAIM_BOUNDARY_COHERENCE_v0_1",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CHK-SCHEMA-VALIDITY",
+      "identifier_type": "CHECK",
+      "owner_artifact": "FORK_CLAIM_BOUNDARY_COHERENCE_v0_1",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CHK-PLACEHOLDER-CLASSIFICATION",
+      "identifier_type": "CHECK",
+      "owner_artifact": "FORK_CLAIM_BOUNDARY_COHERENCE_v0_1",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CHK-VALID-FIXTURES",
+      "identifier_type": "CHECK",
+      "owner_artifact": "FORK_CLAIM_BOUNDARY_COHERENCE_v0_1",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CHK-INVALID-FIXTURES",
+      "identifier_type": "CHECK",
+      "owner_artifact": "FORK_CLAIM_BOUNDARY_COHERENCE_v0_1",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CHK-RESULT-STATE-PRESERVATION",
+      "identifier_type": "CHECK",
+      "owner_artifact": "FORK_CLAIM_BOUNDARY_COHERENCE_v0_1",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "CHK-DIGEST-COVERAGE",
+      "identifier_type": "CHECK",
+      "owner_artifact": "FORK_CLAIM_BOUNDARY_COHERENCE_v0_1",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "DEFECT-SPECIFICATION_DEFECT",
+      "identifier_type": "DEFECT_CLASSIFICATION",
+      "owner_artifact": "defect_classification_registry",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "DEFECT-IMPLEMENTATION_DEFECT",
+      "identifier_type": "DEFECT_CLASSIFICATION",
+      "owner_artifact": "defect_classification_registry",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "DEFECT-REPRESENTATION_DEFECT",
+      "identifier_type": "DEFECT_CLASSIFICATION",
+      "owner_artifact": "defect_classification_registry",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "DEFECT-MEASUREMENT_DEFECT",
+      "identifier_type": "DEFECT_CLASSIFICATION",
+      "owner_artifact": "defect_classification_registry",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "DEFECT-ENFORCEMENT_DEFECT",
+      "identifier_type": "DEFECT_CLASSIFICATION",
+      "owner_artifact": "defect_classification_registry",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "DEFECT-EXPERIMENTAL_DESIGN_DEFECT",
+      "identifier_type": "DEFECT_CLASSIFICATION",
+      "owner_artifact": "defect_classification_registry",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "DEFECT-EXECUTION_FAILURE",
+      "identifier_type": "DEFECT_CLASSIFICATION",
+      "owner_artifact": "defect_classification_registry",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "DEFECT-THESIS_LIMITING_RESULT",
+      "identifier_type": "DEFECT_CLASSIFICATION",
+      "owner_artifact": "defect_classification_registry",
+      "references": [],
+      "status": "ACTIVE"
+    },
+    {
+      "id": "DEFECT-EXTERNAL_VALIDITY_UNESTABLISHED",
+      "identifier_type": "DEFECT_CLASSIFICATION",
+      "owner_artifact": "defect_classification_registry",
+      "references": [],
+      "status": "ACTIVE"
+    }
+  ],
+  "registry_id": "identifier_registry",
+  "version": "0.1.0"
+}

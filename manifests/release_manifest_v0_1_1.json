@@ -1,0 +1,260 @@
+﻿{
+    "manifest_id":  "FORK_CLAIM_BOUNDARY_COHERENCE_v0_1_1_RELEASE_MANIFEST",
+    "created_at":  "2026-06-13T00:41:22Z",
+    "release_version":  "0.1.1",
+    "tag_name":  "v0.1.1-specification-coherence-pass",
+    "receipt_sha256":  "36c69c5e1f07db9f187000df93700246786b86879200008a736bcce1fce670ec",
+    "runner_sha256":  "45be4cb7286db00394a7554786bb07d1e4e5510be0107cba3d46984639fadf40",
+    "manifest_exclusions":  [
+                                ".git/",
+                                "manifests/release_manifest_v0_1_1.json",
+                                "manifests/release_SHA256SUMS_v0_1_1"
+                            ],
+    "files":  [
+                  {
+                      "path":  "bootstrap_materialize_and_run.py",
+                      "sha256":  "54807214fb5f8fdfd742051fa6974836c5223299b83672ffdb123ac3b8b66be4",
+                      "bytes":  23606
+                  },
+                  {
+                      "path":  "canonical/fork_bes_001.canonical.json",
+                      "sha256":  "a2f804bb324fb862cf6c765c1b1eea301fe4d0afb020aa6d75c2e922d4254383",
+                      "bytes":  854
+                  },
+                  {
+                      "path":  "canonical/fork_cbs_001.canonical.json",
+                      "sha256":  "1baa26c25cbd7035909498edc428c5958c9c463e90c3a452eae0d2cf6cc494fa",
+                      "bytes":  1130
+                  },
+                  {
+                      "path":  "canonical/fork_corpus_001.canonical.json",
+                      "sha256":  "4cbba14aeb6e6af27e99e629ac13069c199b423862253bcdb836ea4190d502f5",
+                      "bytes":  987
+                  },
+                  {
+                      "path":  "canonical/fork_eap_001.canonical.json",
+                      "sha256":  "176c532e9fa905d0711e3a39860957f2a9254ec7b4145c953a0cd6f53e1b0993",
+                      "bytes":  897
+                  },
+                  {
+                      "path":  "canonical/fork_prs_001.canonical.json",
+                      "sha256":  "b97b65814ed8265f3256698e9c9e4a47e91756bec02d63dc3fb8f356269cc8eb",
+                      "bytes":  834
+                  },
+                  {
+                      "path":  "canonical/fork_scr_001.canonical.json",
+                      "sha256":  "040bc53bb9f85acb25985a280b627b15948c28869b363f0e2f64e1a838e1d060",
+                      "bytes":  838
+                  },
+                  {
+                      "path":  "canonical/fork_sds_001.canonical.json",
+                      "sha256":  "a79290e745f40ee3be525f30566a017afecf569032f650ffe1e5008308e6c876",
+                      "bytes":  1675
+                  },
+                  {
+                      "path":  "fixtures/specification_coherence/ambiguous/ambiguous_reference.json",
+                      "sha256":  "4d4a2200505ae6085fe6e609a007bbf51cb1d3cc36f404a6a7667039283565ed",
+                      "bytes":  204
+                  },
+                  {
+                      "path":  "fixtures/specification_coherence/invalid/invalid_duplicate_identifier.json",
+                      "sha256":  "e3d80fccc48d5e139c96ee6542045d92b118bade74bcef2f1fc68a952864b542",
+                      "bytes":  181
+                  },
+                  {
+                      "path":  "fixtures/specification_coherence/invalid/invalid_forbidden_dependency.json",
+                      "sha256":  "d68e4fa8c80734e392b71081aa779e2c6d0212c0ee154aada80cd8856e779cff",
+                      "bytes":  227
+                  },
+                  {
+                      "path":  "fixtures/specification_coherence/unresolved/unresolved_placeholder.json",
+                      "sha256":  "1a7c172558440f656405ea5f5c2e867ad9978a7165a31099e6c5ee37e182045d",
+                      "bytes":  192
+                  },
+                  {
+                      "path":  "fixtures/specification_coherence/valid/valid_identifier_registry.json",
+                      "sha256":  "1c3e1db129bedb769ed10727aafba374f08438f536e508a1f85e24c224615659",
+                      "bytes":  212
+                  },
+                  {
+                      "path":  "manifests/initial_manifest.json",
+                      "sha256":  "825d464838b3a3c54e60fa9c6f59078db84f6f7427a5c32a578023e10e734bb2",
+                      "bytes":  5033
+                  },
+                  {
+                      "path":  "manifests/SHA256SUMS",
+                      "sha256":  "55c652de646169431a9b85378bde8a8304582b8d8ab69bb81226e8b51e42f793",
+                      "bytes":  5707
+                  },
+                  {
+                      "path":  "manifests/stack_manifest.json",
+                      "sha256":  "a428b70b17fc8926f2931d1c6ffd8dfbdb6aa56307b59b0df2791a39b6a9f8d1",
+                      "bytes":  8028
+                  },
+                  {
+                      "path":  "README.md",
+                      "sha256":  "2d798a88b2ea53c2c22ee09cfaa33b4fb2e090880270312b003923c465471e61",
+                      "bytes":  516
+                  },
+                  {
+                      "path":  "registry/artifact_registry.json",
+                      "sha256":  "8619c674b9d2af2cc17306995fe0e9a78211f88fc3c44bd57e44d9d89ee4b0ad",
+                      "bytes":  5962
+                  },
+                  {
+                      "path":  "registry/defect_classification_registry.json",
+                      "sha256":  "af4b50733355f6f9c6b3627915e85e2b5344baa0c1eed1d80165865d756cf6a8",
+                      "bytes":  1556
+                  },
+                  {
+                      "path":  "registry/dependency_registry.json",
+                      "sha256":  "ceea8acafc41272ad34f94bf75c5175d0998e9c1eacc2e34d074f1a23c04a009",
+                      "bytes":  2764
+                  },
+                  {
+                      "path":  "registry/identifier_registry.json",
+                      "sha256":  "f555bc9881bd743407c12569ef5328c72759991ed78ac043e4d0f68735aace11",
+                      "bytes":  29838
+                  },
+                  {
+                      "path":  "RELEASE_LOCK_v0_1_1.json",
+                      "sha256":  "6ce3600fb6a4cd517fbb4a384192a4467b035ff689b1f39baa788348f7ae04b5",
+                      "bytes":  2520
+                  },
+                  {
+                      "path":  "RELEASE_NOTES_v0_1_1.md",
+                      "sha256":  "34b7da77643f8b674e71d5c3321093ccbc8493e48bf721b1f46d1faed06156c1",
+                      "bytes":  2654
+                  },
+                  {
+                      "path":  "results/specification_coherence/FORK_SPECIFICATION_COHERENCE_RECEIPT_v0_1.json",
+                      "sha256":  "36c69c5e1f07db9f187000df93700246786b86879200008a736bcce1fce670ec",
+                      "bytes":  7005
+                  },
+                  {
+                      "path":  "results/specification_coherence/preserved_failures/v0_1_placeholder_false_positive/FORK_SPECIFICATION_COHERENCE_RECEIPT_v0_1_FAIL.json",
+                      "sha256":  "6ebf4419895a6bf989d5967f593b18f6d5f3d9de8a6d2174539789b08f0083a8",
+                      "bytes":  7273
+                  },
+                  {
+                      "path":  "results/specification_coherence/preserved_failures/v0_1_placeholder_false_positive/FORK_SPECIFICATION_COHERENCE_RECEIPT_v0_1_FAIL_preserved.json",
+                      "sha256":  "6ebf4419895a6bf989d5967f593b18f6d5f3d9de8a6d2174539789b08f0083a8",
+                      "bytes":  7273
+                  },
+                  {
+                      "path":  "results/specification_coherence/preserved_failures/v0_1_placeholder_false_positive/IMPLEMENTATION_CORRECTION_SURGICAL_v0_1_to_v0_1_1.md",
+                      "sha256":  "3b6d8141d3e160b41f9f35c0b7def064a7309e0bf710cfd1d460d38534ddeec4",
+                      "bytes":  1197
+                  },
+                  {
+                      "path":  "results/specification_coherence/preserved_failures/v0_1_placeholder_false_positive/IMPLEMENTATION_CORRECTION_v0_1_to_v0_1_1.md",
+                      "sha256":  "8b57d7b5b937fd5a11c285d319c2b5d71926a5a735b5fb2efbcfa2f76fc547c1",
+                      "bytes":  1174
+                  },
+                  {
+                      "path":  "results/specification_coherence/preserved_failures/v0_1_placeholder_false_positive/IMPLEMENTATION_CORRECTION_v0_1_to_v0_1_1_ROBUST.md",
+                      "sha256":  "fb2ba19c640482f69522197911fa21d250d3d4465e2497ade68f02a33eee1ae5",
+                      "bytes":  1282
+                  },
+                  {
+                      "path":  "results/specification_coherence/preserved_failures/v0_1_placeholder_false_positive/receipt_before_surgical_patch.json",
+                      "sha256":  "6ebf4419895a6bf989d5967f593b18f6d5f3d9de8a6d2174539789b08f0083a8",
+                      "bytes":  7273
+                  },
+                  {
+                      "path":  "results/specification_coherence/preserved_failures/v0_1_placeholder_false_positive/run_specification_coherence_before_surgical_patch.py",
+                      "sha256":  "dc85e58c375d03a7a289ea84a88a8e35e169f58cb0a6ce7cc3bb6f1b0054a83f",
+                      "bytes":  11549
+                  },
+                  {
+                      "path":  "results/specification_coherence/preserved_failures/v0_1_placeholder_false_positive/run_specification_coherence_v0_1.py",
+                      "sha256":  "dc85e58c375d03a7a289ea84a88a8e35e169f58cb0a6ce7cc3bb6f1b0054a83f",
+                      "bytes":  11549
+                  },
+                  {
+                      "path":  "results/specification_coherence/preserved_failures/v0_1_placeholder_false_positive/run_specification_coherence_v0_1_preserved.py",
+                      "sha256":  "dc85e58c375d03a7a289ea84a88a8e35e169f58cb0a6ce7cc3bb6f1b0054a83f",
+                      "bytes":  11549
+                  },
+                  {
+                      "path":  "schemas/artifact_registry.schema.json",
+                      "sha256":  "9d313d2c07a13172d1dadaf11c460d2cc97e96baf5cbda127bab5457f3901477",
+                      "bytes":  160
+                  },
+                  {
+                      "path":  "schemas/coherence_receipt.schema.json",
+                      "sha256":  "6b8ef36f8799b3c9f10de562accd4c22327022c743f9fdb0318ccb30db6406fc",
+                      "bytes":  160
+                  },
+                  {
+                      "path":  "schemas/defect_classification_registry.schema.json",
+                      "sha256":  "6ecbd2f2510b5adf575c819723a056bf1eeec4257f8384641fa59577c04a86b9",
+                      "bytes":  173
+                  },
+                  {
+                      "path":  "schemas/dependency_registry.schema.json",
+                      "sha256":  "733fc0eb2bd7f5ca50b6341ac736cbb2112b151ab95f824f0ccbc178f2a1cfa2",
+                      "bytes":  162
+                  },
+                  {
+                      "path":  "schemas/identifier_registry.schema.json",
+                      "sha256":  "0f8394b062894003bc9dc7f3be595700fcf7eeb3b55963c9a9fbfbeae238df08",
+                      "bytes":  162
+                  },
+                  {
+                      "path":  "schemas/validation_result.schema.json",
+                      "sha256":  "a08b13963f12c7c0f5041f7bee1b33c650857bb12c50164148c49d7e32764856",
+                      "bytes":  160
+                  },
+                  {
+                      "path":  "specs/FORK-BES-001.md",
+                      "sha256":  "6cc38e6d72a0b30c4d8e8eecc130f320c1979010b8bf575707cab95c44a986fb",
+                      "bytes":  970
+                  },
+                  {
+                      "path":  "specs/FORK-CBS-001.md",
+                      "sha256":  "952fae36594c95bb1838dc8c44d1993b7e3f716b2ff9a8664a42c461803b347f",
+                      "bytes":  1210
+                  },
+                  {
+                      "path":  "specs/FORK-CORPUS-001.md",
+                      "sha256":  "3c2840b3c6249095744de1436b1ec8a025ae316a7b5b788283ddaa0c6ef0afca",
+                      "bytes":  1064
+                  },
+                  {
+                      "path":  "specs/FORK-EAP-001.md",
+                      "sha256":  "7ea5871edd924d2ca1b77a23175dc5db02be298097985d867c72f7d3d5297239",
+                      "bytes":  1010
+                  },
+                  {
+                      "path":  "specs/FORK-PRS-001.md",
+                      "sha256":  "a57d0d6de8e1f7d9aef77c22fae19a1dba44d59b6816b5e5c2c99c72b87b98ee",
+                      "bytes":  953
+                  },
+                  {
+                      "path":  "specs/FORK-SCR-001.md",
+                      "sha256":  "e5acfe9a8aaca05480db37ccdd7d24aae3aba8b5d1332738edb0db202e96ef24",
+                      "bytes":  960
+                  },
+                  {
+                      "path":  "specs/FORK-SDS-001.md",
+                      "sha256":  "26b932d7aec934a00cbb083c040bebfbb21a9449535fbbe9e564af1f5f58f07d",
+                      "bytes":  1608
+                  },
+                  {
+                      "path":  "tools/patch_placeholder_detector_surgical_v0_1_1.py",
+                      "sha256":  "8d238802b410271d917aaedc33b11cd811d100d635e8e15a69134883f9501e58",
+                      "bytes":  2250
+                  },
+                  {
+                      "path":  "tools/patch_placeholder_detector_v0_1_1.py",
+                      "sha256":  "6cc7de9da29e532059ae58bea84a7e32caa9d63f9c7779f193f7ba083f856f92",
+                      "bytes":  1607
+                  },
+                  {
+                      "path":  "tools/run_specification_coherence.py",
+                      "sha256":  "45be4cb7286db00394a7554786bb07d1e4e5510be0107cba3d46984639fadf40",
+                      "bytes":  11647
+                  }
+              ]
+}

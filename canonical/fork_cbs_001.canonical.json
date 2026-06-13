@@ -1,0 +1,45 @@
+{
+  "artifact_id": "FORK-CBS-001",
+  "canonical_payload_sha256": "64b9f22f1a2e5ba7c375186bcf71c26a733ef2a5af022a311dfd1057e8e79c5c",
+  "claim_boundary": {
+    "does_not_establish": [
+      "Implementation conformance",
+      "Measurement reliability",
+      "Empirical effectiveness",
+      "External validity"
+    ],
+    "establishes": [
+      "Materialized specification presence and declared metadata only."
+    ]
+  },
+  "claim_rung": "SPECIFIED",
+  "declared_identifiers": [
+    "CBS-SOURCE-001",
+    "CBS-CAPTURE-001",
+    "CBS-DERIVATION-001",
+    "CBS-IDENTITY-001",
+    "CBS-AUTH-001",
+    "CBS-TIME-001",
+    "CBS-TIME-002",
+    "CBS-TIME-003",
+    "CBS-TIME-004",
+    "CBS-STATUS-001",
+    "CBS-VERIFY-001",
+    "CBS-CONFORMANCE-001",
+    "CBS-RESULT-001",
+    "CBS-RESULT-002",
+    "CBS-INTEGRITY-001",
+    "CBS-REPLAY-001",
+    "CBS-ALLEGATION-001",
+    "CBS-JUDGMENT-001",
+    "CBS-REVIEW-001",
+    "CBS-NOTICE-001"
+  ],
+  "source_markdown": "specs/FORK-CBS-001.md",
+  "status": "MATERIALIZED_UNSEALED",
+  "title": "Canonical Boundary Set",
+  "upstream_dependencies": [
+    "FORK-SDS-001"
+  ],
+  "version": "0.1.0"
+}

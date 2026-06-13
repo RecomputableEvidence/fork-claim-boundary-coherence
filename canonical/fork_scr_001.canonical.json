@@ -1,0 +1,31 @@
+{
+  "artifact_id": "FORK-SCR-001",
+  "canonical_payload_sha256": "6702e1f3e49cf18c71f073c4e680901783db2381db1bf9129f87b713e3f4e36f",
+  "claim_boundary": {
+    "does_not_establish": [
+      "Implementation conformance",
+      "Measurement reliability",
+      "Empirical effectiveness",
+      "External validity"
+    ],
+    "establishes": [
+      "Materialized specification presence and declared metadata only."
+    ]
+  },
+  "claim_rung": "SPECIFIED",
+  "declared_identifiers": [
+    "SCR-CLAIM-SEGMENTATION",
+    "SCR-SUPPORT-LOOKUP",
+    "SCR-PROHIBITION-LOOKUP",
+    "SCR-BOUNDARY-SCORING"
+  ],
+  "source_markdown": "specs/FORK-SCR-001.md",
+  "status": "MATERIALIZED_UNSEALED",
+  "title": "Scoring and Coder Rubric",
+  "upstream_dependencies": [
+    "FORK-SDS-001",
+    "FORK-CBS-001",
+    "FORK-CORPUS-001"
+  ],
+  "version": "0.1.0"
+}

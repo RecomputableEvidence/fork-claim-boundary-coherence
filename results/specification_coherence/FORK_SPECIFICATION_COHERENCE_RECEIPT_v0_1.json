@@ -1,0 +1,173 @@
+{
+  "artifact_digests": {
+    "FORK-BES-001": {
+      "canonical_sha256": "a2f804bb324fb862cf6c765c1b1eea301fe4d0afb020aa6d75c2e922d4254383",
+      "spec_sha256": "6cc38e6d72a0b30c4d8e8eecc130f320c1979010b8bf575707cab95c44a986fb"
+    },
+    "FORK-CBS-001": {
+      "canonical_sha256": "1baa26c25cbd7035909498edc428c5958c9c463e90c3a452eae0d2cf6cc494fa",
+      "spec_sha256": "952fae36594c95bb1838dc8c44d1993b7e3f716b2ff9a8664a42c461803b347f"
+    },
+    "FORK-CORPUS-001": {
+      "canonical_sha256": "4cbba14aeb6e6af27e99e629ac13069c199b423862253bcdb836ea4190d502f5",
+      "spec_sha256": "3c2840b3c6249095744de1436b1ec8a025ae316a7b5b788283ddaa0c6ef0afca"
+    },
+    "FORK-EAP-001": {
+      "canonical_sha256": "176c532e9fa905d0711e3a39860957f2a9254ec7b4145c953a0cd6f53e1b0993",
+      "spec_sha256": "7ea5871edd924d2ca1b77a23175dc5db02be298097985d867c72f7d3d5297239"
+    },
+    "FORK-PRS-001": {
+      "canonical_sha256": "b97b65814ed8265f3256698e9c9e4a47e91756bec02d63dc3fb8f356269cc8eb",
+      "spec_sha256": "a57d0d6de8e1f7d9aef77c22fae19a1dba44d59b6816b5e5c2c99c72b87b98ee"
+    },
+    "FORK-SCR-001": {
+      "canonical_sha256": "040bc53bb9f85acb25985a280b627b15948c28869b363f0e2f64e1a838e1d060",
+      "spec_sha256": "e5acfe9a8aaca05480db37ccdd7d24aae3aba8b5d1332738edb0db202e96ef24"
+    },
+    "FORK-SDS-001": {
+      "canonical_sha256": "a79290e745f40ee3be525f30566a017afecf569032f650ffe1e5008308e6c876",
+      "spec_sha256": "26b932d7aec934a00cbb083c040bebfbb21a9449535fbbe9e564af1f5f58f07d"
+    }
+  },
+  "artifact_versions": {
+    "FORK-BES-001": "0.1.0",
+    "FORK-CBS-001": "0.1.0",
+    "FORK-CORPUS-001": "0.1.0",
+    "FORK-EAP-001": "0.1.0",
+    "FORK-PRS-001": "0.1.0",
+    "FORK-SCR-001": "0.1.0",
+    "FORK-SDS-001": "0.1.0"
+  },
+  "checks": [
+    {
+      "check_id": "CHK-ARTIFACT-PRESENCE",
+      "detail": "All registered spec and canonical artifact files are present.",
+      "name": "Required artifact presence",
+      "reason_code": "OK",
+      "status": "PASS"
+    },
+    {
+      "check_id": "CHK-IDENTIFIER-UNIQUENESS",
+      "detail": "All registered identifiers are unique and match the accepted format.",
+      "name": "Identifier uniqueness and naming",
+      "reason_code": "OK",
+      "status": "PASS"
+    },
+    {
+      "check_id": "CHK-REFERENCE-RESOLUTION",
+      "detail": "All identifier references resolve to registered identifiers or artifacts.",
+      "name": "Cross-artifact reference resolution",
+      "reason_code": "OK",
+      "status": "PASS"
+    },
+    {
+      "check_id": "CHK-DEPENDENCY-DIRECTION",
+      "detail": "All dependency edges flow downstream according to the authority graph.",
+      "name": "Authority and dependency direction",
+      "reason_code": "OK",
+      "status": "PASS"
+    },
+    {
+      "check_id": "CHK-CANONICAL-REPRODUCIBILITY",
+      "detail": "All canonical JSON artifacts reproduce declared canonical payload hashes.",
+      "name": "Canonical machine-form reproducibility",
+      "reason_code": "OK",
+      "status": "PASS"
+    },
+    {
+      "check_id": "CHK-SCHEMA-VALIDITY",
+      "detail": "All schema files are parseable JSON Schema stubs with the declared draft marker.",
+      "name": "Schema validation of canonical artifacts",
+      "reason_code": "OK",
+      "status": "PASS"
+    },
+    {
+      "check_id": "CHK-PLACEHOLDER-CLASSIFICATION",
+      "detail": "No unclassified TBD or PLACEHOLDER tokens were found.",
+      "name": "Unresolved placeholder classification",
+      "reason_code": "OK",
+      "status": "PASS"
+    },
+    {
+      "check_id": "CHK-VALID-FIXTURES",
+      "detail": "Valid specification-coherence fixture produced expected PASS.",
+      "name": "Declared valid fixtures pass",
+      "reason_code": "OK",
+      "status": "PASS"
+    },
+    {
+      "check_id": "CHK-INVALID-FIXTURES",
+      "detail": "Invalid duplicate-ID and forbidden-dependency fixtures produced expected FAIL states.",
+      "name": "Declared invalid fixtures fail as expected",
+      "reason_code": "OK",
+      "status": "PASS"
+    },
+    {
+      "check_id": "CHK-RESULT-STATE-PRESERVATION",
+      "detail": "Fixture evaluation preserves PASS, FAIL, and NOT_CHECKED as distinct states.",
+      "name": "PASS/FAIL/NOT_CHECKED state preservation",
+      "reason_code": "OK",
+      "status": "PASS"
+    },
+    {
+      "check_id": "CHK-DIGEST-COVERAGE",
+      "detail": "All current input files are digestable; final SHA256SUMS will be emitted after receipt generation.",
+      "name": "Input and output digest coverage",
+      "reason_code": "OK",
+      "status": "PASS"
+    }
+  ],
+  "claim_boundary": {
+    "does_not_establish": [
+      "Specification completeness or optimality",
+      "Implementation conformance of the full experimental apparatus",
+      "Measurement reliability",
+      "Experimental executability at scale",
+      "Empirical effectiveness of boundary language",
+      "External validity",
+      "Legal, regulatory, institutional, or policy sufficiency",
+      "Truth of the Boundary Language thesis"
+    ],
+    "establishes": [
+      "The materialized Fork Claim Boundary specification stack was evaluated for specification coherence under the recorded runner and environment.",
+      "Required artifacts, identifiers, references, dependency direction, canonical payload hashes, schema stubs, fixtures, result-state preservation, and digestability were evaluated."
+    ]
+  },
+  "claim_rung": "SPECIFIED",
+  "created_at": "2026-06-13T00:41:21.429228Z",
+  "defects": [],
+  "evaluation_scope": "SPECIFICATION_COHERENCE",
+  "execution_environment": {
+    "cwd": "C:\\N\\fork_claim\\FORK_CLAIM_BOUNDARY_COHERENCE_v0_1",
+    "os": "Windows 11",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "python": "3.14.2"
+  },
+  "next_required_action": [
+    "Review the coherence receipt.",
+    "If PASS, proceed to implementation conformance fixtures for schemas, scorers, and BES.",
+    "If FAIL, classify each defect and issue a versioned correction without historical substitution.",
+    "Preserve this receipt and all input artifacts as the v0.1 lineage."
+  ],
+  "not_checked": [],
+  "overall_reason": {
+    "code": "COHERENCE_CHECKS_EXECUTED",
+    "detail": "Specification-coherence checks executed against the materialized v0.1 artifact stack."
+  },
+  "overall_result": "PASS",
+  "receipt_id": "FORK_SPECIFICATION_COHERENCE_RECEIPT_v0_1",
+  "receipt_integrity": {
+    "canonicalization": "UTF-8; JSON keys sorted lexicographically; compact separators; no NaN/Infinity; /receipt_integrity excluded from payload digest",
+    "covered_object": "Entire receipt object excluding /receipt_integrity",
+    "payload_sha256": "af1b45ae383cc2fd97cc8c954f1f3948dba1fd58f7b73625dfff7fd1e905eb33"
+  },
+  "receipt_version": "0.1.1",
+  "runner": {
+    "digest": "45be4cb7286db00394a7554786bb07d1e4e5510be0107cba3d46984639fadf40",
+    "execution_status": "EXECUTED",
+    "name": "FORK_SPECIFICATION_COHERENCE_RUNNER",
+    "version": "0.1.1"
+  },
+  "schema_id": "FORK-SPECIFICATION-COHERENCE-RECEIPT",
+  "schema_version": "0.1.0"
+}

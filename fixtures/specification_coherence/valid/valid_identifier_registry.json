@@ -1,0 +1,15 @@
+{
+  "expected_status": "PASS",
+  "fixture_id": "FIXTURE-VALID-IDENTIFIERS-001",
+  "identifiers": [
+    {
+      "id": "P-001"
+    },
+    {
+      "id": "P-002"
+    },
+    {
+      "id": "CBS-STATUS-001"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "authority_rule": "References flow downstream only. Downstream artifacts may not redefine upstream truth, boundaries, exposure, scoring, enforcement ground truth, or analysis rules.",
+  "edges": [
+    {
+      "authority": "DOWNSTREAM_REFERENCE_ONLY",
+      "from": "FORK-SDS-001",
+      "to": "FORK-CBS-001"
+    },
+    {
+      "authority": "DOWNSTREAM_REFERENCE_ONLY",
+      "from": "FORK-SDS-001",
+      "to": "FORK-CORPUS-001"
+    },
+    {
+      "authority": "DOWNSTREAM_REFERENCE_ONLY",
+      "from": "FORK-CBS-001",
+      "to": "FORK-CORPUS-001"
+    },
+    {
+      "authority": "DOWNSTREAM_REFERENCE_ONLY",
+      "from": "FORK-SDS-001",
+      "to": "FORK-SCR-001"
+    },
+    {
+      "authority": "DOWNSTREAM_REFERENCE_ONLY",
+      "from": "FORK-CBS-001",
+      "to": "FORK-SCR-001"
+    },
+    {
+      "authority": "DOWNSTREAM_REFERENCE_ONLY",
+      "from": "FORK-CORPUS-001",
+      "to": "FORK-SCR-001"
+    },
+    {
+      "authority": "DOWNSTREAM_REFERENCE_ONLY",
+      "from": "FORK-SDS-001",
+      "to": "FORK-PRS-001"
+    },
+    {
+      "authority": "DOWNSTREAM_REFERENCE_ONLY",
+      "from": "FORK-CBS-001",
+      "to": "FORK-PRS-001"
+    },
+    {
+      "authority": "DOWNSTREAM_REFERENCE_ONLY",
+      "from": "FORK-CORPUS-001",
+      "to": "FORK-PRS-001"
+    },
+    {
+      "authority": "DOWNSTREAM_REFERENCE_ONLY",
+      "from": "FORK-SCR-001",
+      "to": "FORK-PRS-001"
+    },
+    {
+      "authority": "DOWNSTREAM_REFERENCE_ONLY",
+      "from": "FORK-SDS-001",
+      "to": "FORK-BES-001"
+    },
+    {
+      "authority": "DOWNSTREAM_REFERENCE_ONLY",
+      "from": "FORK-CBS-001",
+      "to": "FORK-BES-001"
+    },
+    {
+      "authority": "DOWNSTREAM_REFERENCE_ONLY",
+      "from": "FORK-CORPUS-001",
+      "to": "FORK-BES-001"
+    },
+    {
+      "authority": "DOWNSTREAM_REFERENCE_ONLY",
+      "from": "FORK-SCR-001",
+      "to": "FORK-BES-001"
+    },
+    {
+      "authority": "DOWNSTREAM_REFERENCE_ONLY",
+      "from": "FORK-PRS-001",
+      "to": "FORK-BES-001"
+    },
+    {
+      "authority": "DOWNSTREAM_REFERENCE_ONLY",
+      "from": "FORK-SDS-001",
+      "to": "FORK-EAP-001"
+    },
+    {
+      "authority": "DOWNSTREAM_REFERENCE_ONLY",
+      "from": "FORK-CBS-001",
+      "to": "FORK-EAP-001"
+    },
+    {
+      "authority": "DOWNSTREAM_REFERENCE_ONLY",
+      "from": "FORK-CORPUS-001",
+      "to": "FORK-EAP-001"
+    },
+    {
+      "authority": "DOWNSTREAM_REFERENCE_ONLY",
+      "from": "FORK-SCR-001",
+      "to": "FORK-EAP-001"
+    },
+    {
+      "authority": "DOWNSTREAM_REFERENCE_ONLY",
+      "from": "FORK-PRS-001",
+      "to": "FORK-EAP-001"
+    },
+    {
+      "authority": "DOWNSTREAM_REFERENCE_ONLY",
+      "from": "FORK-BES-001",
+      "to": "FORK-EAP-001"
+    }
+  ],
+  "registry_id": "dependency_registry",
+  "version": "0.1.0"
+}

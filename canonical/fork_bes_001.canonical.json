@@ -1,0 +1,33 @@
+{
+  "artifact_id": "FORK-BES-001",
+  "canonical_payload_sha256": "9e92c89abafb334cd81b2148ffd6330c9130535d4b51fdbb6a4dedb73f7da386",
+  "claim_boundary": {
+    "does_not_establish": [
+      "Implementation conformance",
+      "Measurement reliability",
+      "Empirical effectiveness",
+      "External validity"
+    ],
+    "establishes": [
+      "Materialized specification presence and declared metadata only."
+    ]
+  },
+  "claim_rung": "SPECIFIED",
+  "declared_identifiers": [
+    "BES-E1-DR-001",
+    "BES-DETECT",
+    "BES-REJECT",
+    "BES-NOT-CHECKED"
+  ],
+  "source_markdown": "specs/FORK-BES-001.md",
+  "status": "MATERIALIZED_UNSEALED",
+  "title": "Boundary Enforcement Specification",
+  "upstream_dependencies": [
+    "FORK-SDS-001",
+    "FORK-CBS-001",
+    "FORK-CORPUS-001",
+    "FORK-SCR-001",
+    "FORK-PRS-001"
+  ],
+  "version": "0.1.0"
+}

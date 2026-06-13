@@ -1,0 +1,42 @@
+{
+  "defect_classes": [
+    {
+      "classification": "SPECIFICATION_DEFECT",
+      "use": "Diagnostic classification only; not a rhetorical escape from an unfavorable result."
+    },
+    {
+      "classification": "IMPLEMENTATION_DEFECT",
+      "use": "Diagnostic classification only; not a rhetorical escape from an unfavorable result."
+    },
+    {
+      "classification": "REPRESENTATION_DEFECT",
+      "use": "Diagnostic classification only; not a rhetorical escape from an unfavorable result."
+    },
+    {
+      "classification": "MEASUREMENT_DEFECT",
+      "use": "Diagnostic classification only; not a rhetorical escape from an unfavorable result."
+    },
+    {
+      "classification": "ENFORCEMENT_DEFECT",
+      "use": "Diagnostic classification only; not a rhetorical escape from an unfavorable result."
+    },
+    {
+      "classification": "EXPERIMENTAL_DESIGN_DEFECT",
+      "use": "Diagnostic classification only; not a rhetorical escape from an unfavorable result."
+    },
+    {
+      "classification": "EXECUTION_FAILURE",
+      "use": "Diagnostic classification only; not a rhetorical escape from an unfavorable result."
+    },
+    {
+      "classification": "THESIS_LIMITING_RESULT",
+      "use": "Diagnostic classification only; not a rhetorical escape from an unfavorable result."
+    },
+    {
+      "classification": "EXTERNAL_VALIDITY_UNESTABLISHED",
+      "use": "Diagnostic classification only; not a rhetorical escape from an unfavorable result."
+    }
+  ],
+  "registry_id": "defect_classification_registry",
+  "version": "0.1.0"
+}

@@ -1,0 +1,32 @@
+{
+  "artifact_id": "FORK-PRS-001",
+  "canonical_payload_sha256": "2438a19c3d4afef2269d29bb1f5ca8400ac893d2203c5eb960a4b0ec7d21d535",
+  "claim_boundary": {
+    "does_not_establish": [
+      "Implementation conformance",
+      "Measurement reliability",
+      "Empirical effectiveness",
+      "External validity"
+    ],
+    "establishes": [
+      "Materialized specification presence and declared metadata only."
+    ]
+  },
+  "claim_rung": "SPECIFIED",
+  "declared_identifiers": [
+    "PRS-LNR-001",
+    "PRS-LAR-001",
+    "PRS-SMG-001",
+    "PRS-DAR-001"
+  ],
+  "source_markdown": "specs/FORK-PRS-001.md",
+  "status": "MATERIALIZED_UNSEALED",
+  "title": "Prompt and Reconstruction Stress Suite",
+  "upstream_dependencies": [
+    "FORK-SDS-001",
+    "FORK-CBS-001",
+    "FORK-CORPUS-001",
+    "FORK-SCR-001"
+  ],
+  "version": "0.1.0"
+}
