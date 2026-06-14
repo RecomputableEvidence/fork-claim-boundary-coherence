@@ -1,20 +1,20 @@
-﻿# FORK_CLAIM_BOUNDARY_COHERENCE v0.1.1 Release Lock
+# FORK_CLAIM_BOUNDARY_COHERENCE v0.1.1 Release Lock
 
 ## Release
 
-- Release version: $ReleaseVersion
-- Tag: $TagName
+- Release version: v0.1.1
+- Tag: v0.1.1-specification-coherence-pass
 - Claim rung: SPECIFIED
 - Evaluation scope: SPECIFICATION_COHERENCE
 - Overall result: PASS
-- Checks: $CheckCount PASS / 0 FAIL / 0 NOT_CHECKED
+- Checks: 11 PASS / 0 FAIL / 0 NOT_CHECKED
 
 ## Primary Receipt
 
-- Receipt: esults/specification_coherence/FORK_SPECIFICATION_COHERENCE_RECEIPT_v0_1.json
-- Receipt SHA-256: $ReceiptSha
-- Runner: 	ools/run_specification_coherence.py
-- Runner SHA-256: $RunnerSha
+- Receipt: `results/specification_coherence/FORK_SPECIFICATION_COHERENCE_RECEIPT_v0_1.json`
+- Receipt SHA-256: 36c69c5e1f07db9f187000df93700246786b86879200008a736bcce1fce670ec
+- Runner: `tools/run_specification_coherence.py`
+- Runner SHA-256: 45be4cb7286db00394a7554786bb07d1e4e5510be0107cba3d46984639fadf40
 
 ## What This Release Establishes
 
